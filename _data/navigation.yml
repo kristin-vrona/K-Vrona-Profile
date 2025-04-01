@@ -10,8 +10,8 @@ main:
     url: /portfolio/
   - title: "Contact"
     url: /contact/
- # - title: "Links"
-  #  url: /links/
+  - title: "Links"
+    url: /links/
 
   # - title: "Blog"
   #   url: /blog/
@@ -21,5 +21,5 @@ portfolio:
   - title: "Research"
     children:
     
-     # - title: "Working Papers"
-      #  url: /portfolio/#working-papers
+      - title: "Working Papers"
+       url: /portfolio/#working-papers
