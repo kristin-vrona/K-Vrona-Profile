@@ -1,7 +1,7 @@
 ---
 classes: wide
 header:
-  image: /assets/images/niubanner2.png
+  image: /assets/images/genbanner.png
 permalink: /portfolio/index.html
 ---
 
