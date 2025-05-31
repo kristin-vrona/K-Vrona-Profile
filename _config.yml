@@ -1,13 +1,13 @@
 # Configs
 
-title: "Kristin Marie Vrona"
-name:  "Kristin Vrona Academic Profile"
+title: "Kristin Vrona"
+name:  "Kristin Vrona Professional Profile"
 email: kristin.vrona@gmail.com
 url: "https://kristin-vrona.github.io"
 baseurl: "/K-Vrona-Profile"
 repository: "kristin-vrona/K-Vrona-Profile"
 header:
-  image: /assets/images/headshot 4.jpg
+  image: /assets/images/Vrona Kristin.jpg
 
 include:
   - _pages
@@ -39,8 +39,8 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author: 
   name   : "Kristin Vrona"
-  avatar : "/assets/images/headshot 4.jpg"
-  bio    : "Doctoral candidate in economics defending in March 2025. Specilizations in Econometrics and Labor. Currently hold a master's degree."
+  avatar : "/assets/images/Vrona Kristin.jpg"
+  bio    : "I am a recent PhD grad in Economics from NIU in the fields of applied econometrics and labor economics."
   location: "Sycamore, Illinois"
   github : 
   linkedin: "kristin-vrona" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
