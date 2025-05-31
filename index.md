@@ -7,7 +7,7 @@ header:
 
 # Welcome​
 
-<img src="https://github.com/kristin-vrona/Kristin-Vrona-Profile/blob/master/assets/images/Headshot 2(1).png?raw=true" width="35%" hspace="40" align="right">
+<img src="https://github.com/kristin-vrona/K-Vrona-Profile/blob/master/assets/images/Headshot 2(1).png?raw=true" width="35%" hspace="40" align="right">
 
 My name is Kristin Vrona. I recently earned my Ph.D. in Economics from Northern Illinois University, where I also completed my M.A. in Economics. My doctorate specializations include labor economics and applied econometrics.  
 
