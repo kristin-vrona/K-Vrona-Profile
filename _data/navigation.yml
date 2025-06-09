@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Curriculum Vitae"
-    url: /assets/docs/Vrona,K_CV_MARCH2025.pdf
+    url: /cv/
   - title: "Teaching"
     url: /teaching/
     - title: "Research"
@@ -23,3 +23,13 @@ portfolio:
     
       - title: "Working Papers"
        url: /portfolio/#working-papers
+
+cv:
+  - title: "Curriculum Vitae"
+    children:
+    
+      - title: "CV 2025"
+       url: /cv/#cv-2025
+       
+      - title: "Resume 2025"
+       url: /cv/#Resume
